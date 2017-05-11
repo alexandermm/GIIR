@@ -7,5 +7,5 @@ This imaging algorithm is used to get an image inside tissue using infrared ligh
 As shown in the presentation below, adding a regularizer to the function being minimized can give better results, and its also essential for dealing with noisy data.  
 
 References:
-* Prof. Hanson's [presentation] (http://kmh-lanl.hansonhub.com/talks/duke03-00.pdf) on optical tomography reconstruction
-* The original [paper] (http://kmh-lanl.hansonhub.com/publications/tmi99a.pdf) on GIIR that implemented it using the BIE software from Los Alamos
+* Prof. Hanson's [presentation](http://kmh-lanl.hansonhub.com/talks/duke03-00.pdf) on optical tomography reconstruction
+* The original [paper](http://kmh-lanl.hansonhub.com/publications/tmi99a.pdf) on GIIR that implemented it using the BIE software from Los Alamos
